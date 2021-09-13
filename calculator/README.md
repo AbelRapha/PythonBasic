@@ -6,7 +6,7 @@
 ## Para utilizar
 1. Basta dar um clique no arquivo __calculator.exe__ e depois ir na opção de download.
 2. Depois é só começar a fazer suas continhas do dia a dia hahaha
-
+![Gif](Animação.gif)
 ### Autoria
 * Criado por [mim](github.com/AbelRapha) ♥.
 * Linkedin: [clique aqui](https://www.linkedin.com/in/abel-rapha-280a0a216/)   
