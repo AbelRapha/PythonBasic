@@ -1,13 +1,12 @@
 # Calculadora
-* Neste projeto realizei a construção de uma calculadora por meio da biblioteca Tkinter.
-
-* Desativar o Antivírus e o Windows Defender( Para caso do Windows)
+* Neste projeto realizei a construção de uma calculadora por meio da biblioteca Tkinter.  
 
 * Além disso gerei um arquivo executável para que qualquer desktop consiga utilizá-lo por meio do Pyinstaller 
 
 ## Para utilizar
 1. Basta dar um clique no arquivo __calculator.exe__ e depois ir na opção de download.
 2. Depois é só começar a fazer suas continhas do dia a dia hahaha
+3. Desativar o Antivírus e o Windows Defender( Para caso do Windows)
 ![Gif](Animação.gif)
 ### Autoria
 * Criado por [mim](github.com/AbelRapha) ♥.
