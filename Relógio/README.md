@@ -8,6 +8,9 @@
 2. Depois é só começar a utilizá-lo no seu do dia a dia hahaha
    
 3. Desativar o Antivírus e o Windows Defender( Para caso do Windows)
+4. Execute o aplicativo como administrador
+   
+![Gif Relogio](Gif%20Relógio.gif)
 
 ### Autoria
 * Criado por [mim](github.com/AbelRapha) ♥.
