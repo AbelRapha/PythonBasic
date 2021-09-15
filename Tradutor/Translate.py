@@ -1,6 +1,6 @@
 from tkinter import * 
 from tkinter import ttk, font, Button
-from googletrans import Translator 
+import googletrans
 
 translator  = Translator()
 def traduzir(evento=None):
