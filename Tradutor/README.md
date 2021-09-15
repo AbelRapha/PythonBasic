@@ -1,4 +1,4 @@
-### Aplicativo de Tradução ⚠️(Com alguns problemas na API que não está com a versão instável)
+### Aplicativo de Tradução ⚠️(Com alguns problemas na API que não está com a versão estável)
 * Neste projeto estou realizando a construção de um Tradutor por meio da biblioteca Tkinter e a API googletrans.  
 * Não foi possível gerar o arquivo executável por conta desse problema
    
