@@ -1,8 +1,8 @@
-# Aplicativo de Tradução ⚠️(Com alguns problemas na API que não está com a versão estável)
+### Aplicativo de Tradução ⚠️(Com alguns problemas na API que não está com a versão instável)
 * Neste projeto estou realizando a construção de um Tradutor por meio da biblioteca Tkinter e a API googletrans.  
 * Não foi possível gerar o arquivo executável por conta desse problema
    
-### Autoria
+#### Autoria
 * Criado por [mim](github.com/AbelRapha) ♥.
 * Linkedin: [clique aqui](https://www.linkedin.com/in/abel-rapha-280a0a216/)   
 * E-mail: contato@abelrapha.com
