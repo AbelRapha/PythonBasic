@@ -1,5 +1,5 @@
 # Compressor/ Redimensionador de Imagem
-* Neste projeto realizei a construção de um Compressor de Imagem por meio da biblioteca Tkinter.  
+* Neste projeto realizei a construção de um Compressor de Imagem por meio das bibliotecas Tkinter e Pillow.  
 * Além disso gerei um arquivo executável para que qualquer desktop consiga utilizá-lo por meio do Pyinstaller 
 
 ## Para utilizar
