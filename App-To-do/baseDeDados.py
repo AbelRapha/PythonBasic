@@ -35,7 +35,7 @@ def deletar(i):
 def renomear(i):
     with conexao:
         cursor = conexao.cursor()
-        query = "UPDATE tarefa SET nome = 'Comer' WHERE id=?"
+        query = "UPDATE tarefa SET nome =? WHERE id=?"
         cursor.execute(query,i)
 
    
