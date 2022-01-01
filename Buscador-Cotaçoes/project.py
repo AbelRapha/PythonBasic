@@ -59,4 +59,4 @@ def search_quotes():
 mutiple_quotes_button = tk.Button(text= 'Buscar cotações', command= search_quotes)
 mutiple_quotes_button.grid(row=5, column=1)
 
-window.mainloop()
+window.mainloop() 
