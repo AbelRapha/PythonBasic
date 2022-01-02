@@ -5,7 +5,7 @@ from tkcalendar import DateEntry
 import requests as r
 
 #Requests iin Awesome Api
-api = r.get("https://economia.awesomeapi.com.br/xml/available/uniq")
+api = r.get("http://127.0.0.1:5000/moedas")
 
 def get_quote():
     pass
